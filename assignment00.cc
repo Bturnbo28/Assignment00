@@ -11,7 +11,7 @@ int
 main(int argc, char *argv[])
 {
 
-  // Insert new code line replacing this comment.
+  cout << "Data Structures are Important!!" << endl;
   cout << "I'm very excited to be taking Data Structures" << endl;
 
   return 0;
